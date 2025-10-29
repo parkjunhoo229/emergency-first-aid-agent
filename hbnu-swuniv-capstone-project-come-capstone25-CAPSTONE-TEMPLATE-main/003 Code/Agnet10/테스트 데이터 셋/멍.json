@@ -1,0 +1,112 @@
+{
+  "id": "testcase_멍_14",
+  "disease": "멍",
+  "emergency_level": "비응급",
+  "final_emergency_level": "응급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "넘어졌는데 허벅지에 큰 멍이 생기고 많이 아파요."
+    },
+    {
+      "role": "assistant",
+      "content": "멍이 있는 부위에 매우 심한 부기 또는 통증이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 누르면 통증이 심해요."
+    },
+    {
+      "role": "assistant",
+      "content": "아동 학대, 가정폭력, 노인 학대가 의심되는 상황인가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 그런 건 아니에요."
+    },
+    {
+      "role": "assistant",
+      "content": "가벼운 부상 이후에도 3일 이상 통증이 지속되었나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 오늘 생긴 멍이에요."
+    },
+    {
+      "role": "assistant",
+      "content": "자주 생기거나 크고 통증이 심한 멍이 반복되나요?"
+    },
+    {
+      "role": "user",
+      "content": "그건 아니에요."
+    },
+    {
+      "role": "assistant",
+      "content": "별다른 원인 없이 갑자기 멍이 생겼나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 넘어지면서 생긴 거예요."
+    },
+    {
+      "role": "assistant",
+      "content": "멍 부위에 단단한 혹(혈종)이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "코피나 잇몸 출혈 등 다른 출혈 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 멍이고 응급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 아이스 팩이나 얼음이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 얼음 팩 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "붓기를 줄이기 위해 다리를 심장보다 높게 올릴 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 소파에 올려두고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "붓기가 심할 경우 감을 수 있는 탄력 붕대가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "진통제를 복용할 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 타이레놀 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n멍이 든 부위를 심장보다 높은 위치에 올려두세요.\n얼음 팩은 얇은 수건으로 감싸서 20분간 올려두고, 부상 후 1~2일 동안 여러 번 반복해주세요.\n붓기가 심하다면 붕대를 사용할 수 있지만, 너무 세게 감지 않도록 주의하세요.\n피부 손상이 없다면 붕대는 꼭 필요하지 않으며, 필요 시 타이레놀 등의 진통제를 복용하셔도 됩니다.\n상태가 악화되거나 멍이 사라지지 않으면 병원을 방문하시기 바랍니다."
+    }
+  ]
+}

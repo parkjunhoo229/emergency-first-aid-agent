@@ -1,0 +1,108 @@
+{
+  "id": "testcase_곤충에 물리거나 쏘인 경우_04",
+  "disease": "곤충에 물리거나 쏘인 경우",
+  "emergency_level": "비응급",
+  "final_emergency_level": "비응급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "정원에서 일하다가 벌레에 쏘인 것 같아요. 팔이 좀 가렵고 부었어요."
+    },
+    {
+      "role": "assistant",
+      "content": "숨쉬기 어렵거나 아나필락시스 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "입술, 얼굴, 눈꺼풀, 목이 붓는 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "의식을 잃었거나 실신한 적이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "맥박이 약하게 느껴지시나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "혹시 어린아이가 전갈에 쏘인 상황인가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "전신 발진이나 두드러기가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "어지럽거나 머리가 띵한 느낌이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "전혀 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "메스껍거나 토할 것 같은 느낌이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "구토나 설사 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 곤충에 물리거나 쏘인 경우이고 비응급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급 상황이 아니므로 119 신고는 필요하지 않습니다. 대신 적절한 처치를 안내드릴게요."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 통증이나 가려움이 심한가요?"
+    },
+    {
+      "role": "user",
+      "content": "가려운 게 제일 심해요. 긁으면 좀 따가워요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n안전한 장소로 이동해 더 이상 쏘이지 않도록 하세요.\n침이 남아 있다면 조심스럽게 제거하고, 비누와 물로 부위를 깨끗이 씻어주세요.\n차가운 물이나 얼음을 적신 천으로 10~20분 정도 찜질하면 통증과 부기 완화에 도움이 됩니다.\n해당 부위가 팔이나 다리인 경우 높이 들어주세요.\n칼라민 로션, 베이킹 소다 페이스트, 히드로코르티손 크림 등을 하루에 여러 번 바르세요.\n가려움증 완화를 위해 항히스타민제(예: 세티리진, 로라타딘)를 복용하셔도 좋습니다.\n필요 시 진통제를 복용해도 됩니다."
+    }
+  ]
+}

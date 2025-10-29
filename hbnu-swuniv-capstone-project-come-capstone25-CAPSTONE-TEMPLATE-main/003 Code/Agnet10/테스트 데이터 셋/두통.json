@@ -1,0 +1,136 @@
+{
+  "id": "testcase_두통_12",
+  "disease": "두통",
+  "emergency_level": "비응급",
+  "final_emergency_level": "응급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "머리가 지끈지끈 아파요. 며칠째 계속되고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "갑자기 시작되며 매우 심한 통증을 동반한 두통인가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 서서히 심해졌어요."
+    },
+    {
+      "role": "assistant",
+      "content": "수일간 지속되는 두통인가요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 3일째 계속 아파요."
+    },
+    {
+      "role": "assistant",
+      "content": "혼란이나 의식 저하가 동반되나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "발작과 함께 발생하나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "말이 잘 나오지 않거나 언어장애가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "고열과 함께 목이 뻑뻑하거나 뻣뻣한가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "어지럽거나 균형을 잡기 힘드신가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "팔이나 다리의 마비 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "감각이 둔해지거나 무감각한 부위가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "눈 충혈이나 눈꺼풀이 처진 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 두통이고 응급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 진통제가 있나요? (예: 타이레놀, 이부프로펜 등)"
+    },
+    {
+      "role": "user",
+      "content": "네, 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "물이나 음료가 가까이에 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 물은 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "카페인 음료(커피, 차, 탄산음료 등)가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "밝은 빛을 피할 수 있는 조용한 장소에 계신가요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 불 끄고 조용히 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n진통제를 복용하시고, 충분한 수분을 섭취하세요.\n가능하다면 조용하고 어두운 공간에서 휴식을 취하시고, 카페인이 들어간 음료가 있다면 조금 마시는 것도 도움이 될 수 있습니다.\n밝은 빛은 두통을 악화시킬 수 있으니 가능한 피해주세요.\n두통이 계속되거나 악화된다면 반드시 병원을 방문하세요."
+    }
+  ]
+}

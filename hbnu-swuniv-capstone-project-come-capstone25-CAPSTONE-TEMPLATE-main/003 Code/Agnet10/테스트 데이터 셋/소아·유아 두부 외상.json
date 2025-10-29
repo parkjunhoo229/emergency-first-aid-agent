@@ -1,0 +1,132 @@
+{
+  "id": "testcase_소아·유아 두부 외상_23",
+  "disease": "소아·유아 두부 외상",
+  "emergency_level": "응급",
+  "final_emergency_level": "긴급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아이 머리를 부딪혔는데 계속 울고 토도 몇 번 했어요."
+    },
+    {
+      "role": "assistant",
+      "content": "심한 머리나 얼굴 출혈이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 겉으로 출혈은 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "코나 귀에서 출혈이나 액체가 나왔나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "의식이 수 초 이상 없었던 적이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 바로 울기 시작했어요."
+    },
+    {
+      "role": "assistant",
+      "content": "호흡이 없거나 멈춘 적이 있었나요?"
+    },
+    {
+      "role": "user",
+      "content": "계속 숨 쉬었어요."
+    },
+    {
+      "role": "assistant",
+      "content": "혼란스럽거나 불안정한 상태가 점점 심해지고 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아뇨, 울다 지금은 조금 진정됐어요."
+    },
+    {
+      "role": "assistant",
+      "content": "균형을 잡지 못하거나 걸음걸이가 이상한가요?"
+    },
+    {
+      "role": "user",
+      "content": "아직 걷진 않았어요."
+    },
+    {
+      "role": "assistant",
+      "content": "팔이나 다리에 힘이 없거나 움직이지 못하나요?"
+    },
+    {
+      "role": "user",
+      "content": "움직이는 건 괜찮은 것 같아요."
+    },
+    {
+      "role": "assistant",
+      "content": "양쪽 동공 크기가 다르거나 비정상적인가요?"
+    },
+    {
+      "role": "user",
+      "content": "그런 증상은 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "발음이 어눌해졌나요?"
+    },
+    {
+      "role": "user",
+      "content": "말은 잘 못하는 아이예요."
+    },
+    {
+      "role": "assistant",
+      "content": "경련이나 발작 증상이 있었나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요."
+    },
+    {
+      "role": "assistant",
+      "content": "계속 울고 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 20분째 울고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "수유를 거부하나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 젖을 안 먹으려고 해요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 소아·유아 두부 외상이고 긴급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "현재 긴급 상황으로 의료진의 도움이 필요합니다. 119에 도움을 요청했습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "정확한 위치를 전달하기 위해 현재 계신 장소를 말씀해주시겠어요?"
+    },
+    {
+      "role": "user",
+      "content": "○○아파트 놀이터 쪽이에요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n아이를 안정된 자세로 눕히고, 머리와 어깨를 살짝 높인 상태를 유지하세요. 필요하지 않다면 아이를 움직이지 말고, 특히 목이 움직이지 않도록 조심하세요. 헬멧을 쓰고 있다면 절대 벗기지 마세요.\n출혈이 있다면 멸균 거즈나 깨끗한 천으로 부드럽게 눌러주세요. 두개골 골절이 의심되면 압력을 가하지 마세요.\n호흡과 의식 상태를 계속 확인하고, 호흡이나 기침, 움직임이 없다면 즉시 심폐소생술을 시행하세요. 구급차가 도착할 때까지 아이 상태를 지켜봐 주세요."
+    }
+  ]
+}

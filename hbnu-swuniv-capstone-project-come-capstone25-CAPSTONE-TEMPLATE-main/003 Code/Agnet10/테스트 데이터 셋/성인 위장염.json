@@ -1,0 +1,108 @@
+{
+  "id": "testcase_성인 위장염_22",
+  "disease": "성인 위장염",
+  "emergency_level": "비응급",
+  "final_emergency_level": "응급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "어제부터 계속 설사하고 오늘은 구토도 시작했어요."
+    },
+    {
+      "role": "assistant",
+      "content": "구토가 2일 이상 지속되고 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "이틀째 되고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "설사에 피가 섞여 나오는 경우가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 그냥 묽은 변이에요."
+    },
+    {
+      "role": "assistant",
+      "content": "체온이 39도 이상으로 올랐나요?"
+    },
+    {
+      "role": "user",
+      "content": "열은 조금 있지만 38도 정도예요."
+    },
+    {
+      "role": "assistant",
+      "content": "일어설 때 어지럽거나 실신할 정도인가요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 아까 일어날 때 휘청했어요."
+    },
+    {
+      "role": "assistant",
+      "content": "혼란 증상이 있거나 정신이 흐려지나요?"
+    },
+    {
+      "role": "user",
+      "content": "그건 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "복통이 발생하고 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 복통은 없습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 성인 위장염이고 응급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "119에 도움을 요청하시겠습니까?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 괜찮아요."
+    },
+    {
+      "role": "assistant",
+      "content": "알겠습니다. 증상이 악화되면 즉시 병원을 방문하시고, 필요시 119에 연락하시기 바랍니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 물이나 스포츠 음료를 조금씩 마실 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 천천히 마시고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "소변 색이 진하거나 어지럼증은 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 약간 어지럽긴 해요."
+    },
+    {
+      "role": "assistant",
+      "content": "담백한 음식을 소량 섭취할 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아직 못 먹었지만 조금은 괜찮을 것 같아요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n탈수를 막기 위해 물이나 스포츠 음료를 조금씩 자주 마셔주세요. 한 번에 많은 양을 마시지 말고 천천히 섭취하세요.\n소변 색이 진하거나 어지럼증이 있다면 수분 섭취를 더욱 신경 써야 합니다.\n식사는 소량씩 담백한 음식(토스트, 바나나, 밥 등)부터 시작하세요. 우유, 기름진 음식, 자극적인 음식은 며칠간 피해주세요.\n충분한 휴식을 취하시고, 상태가 나아지지 않으면 병원 진료를 받으시기 바랍니다."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "testcase_사람에게 물림_19",
+  "disease": "사람에게 물림",
+  "emergency_level": "비응급",
+  "final_emergency_level": "응급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아이한테 물렸는데 피가 나고 살이 찢어졌어요."
+    },
+    {
+      "role": "assistant",
+      "content": "피부가 손상되었나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 찢어졌어요."
+    },
+    {
+      "role": "assistant",
+      "content": "출혈이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 계속 피가 나요."
+    },
+    {
+      "role": "assistant",
+      "content": "면역력이 약하거나, 당뇨 또는 고령이신가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 그렇진 않아요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 사람에게 물림이고 응급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 깨끗한 천이나 거즈가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "비누와 흐르는 물로 세척이 가능하신가요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 가능합니다."
+    },
+    {
+      "role": "assistant",
+      "content": "붕대나 거즈로 상처를 감쌀 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "최근 5년 이내에 파상풍 예방접종을 받으셨나요?"
+    },
+    {
+      "role": "user",
+      "content": "잘 기억이 안 나요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n우선 깨끗하고 마른 천으로 압박해 출혈을 멈추세요. 이후 비누와 흐르는 물로 상처를 충분히 세척하세요. 상처 부위는 깨끗한 붕대나 거즈로 덮고, 환부에 접착되지 않는 형태로 감아주세요.\n최근 파상풍 예방접종 여부가 불확실하다면, 부상 후 48시간 이내에 추가 접종을 받는 것이 좋습니다. 감염 예방을 위해 병원을 방문하시기 바랍니다."
+    }
+  ]
+}

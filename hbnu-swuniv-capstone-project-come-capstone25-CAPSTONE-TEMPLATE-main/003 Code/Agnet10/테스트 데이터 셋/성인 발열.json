@@ -1,0 +1,116 @@
+{
+  "id": "testcase_성인 발열_21",
+  "disease": "성인 발열",
+  "emergency_level": "비응급",
+  "final_emergency_level": "긴급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "계속 열이 나고, 숨쉬기가 조금 힘들어요."
+    },
+    {
+      "role": "assistant",
+      "content": "호흡곤란 증상이 있으신가요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 가만히 있어도 숨이 차요."
+    },
+    {
+      "role": "assistant",
+      "content": "혼란스러움을 느끼거나 말이 잘 안 나오나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 정신은 괜찮아요."
+    },
+    {
+      "role": "assistant",
+      "content": "물이나 음료를 삼키기 어렵나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 그건 괜찮아요."
+    },
+    {
+      "role": "assistant",
+      "content": "심한 두통이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 머리가 깨질 듯이 아파요."
+    },
+    {
+      "role": "assistant",
+      "content": "목이 뻣뻣하거나 움직이기 힘든가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 그런 증상은 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "구토를 반복적으로 하나요?"
+    },
+    {
+      "role": "user",
+      "content": "토는 안 했어요."
+    },
+    {
+      "role": "assistant",
+      "content": "복통이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "복통도 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "탈수 증상이 의심되나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 물은 계속 마시고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "피부에 발진이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "배뇨 시 통증이 있거나 허리가 아픈가요?"
+    },
+    {
+      "role": "user",
+      "content": "그건 없습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 성인 발열이고 긴급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "현재 긴급 상황으로 의료진의 도움이 필요합니다. 119에 도움을 요청했습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "정확한 위치를 전달하기 위해 현재 계신 장소를 말씀해주시겠어요?"
+    },
+    {
+      "role": "user",
+      "content": "○○동 아파트 101동 앞입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n가능한 한 많은 수분을 섭취하세요. 탈수를 막는 데 도움이 됩니다. 몸에 열이 많다면 가벼운 옷을 입고, 오한이 있을 경우에는 얇은 담요를 덮되 땀이 나면 바로 제거하세요.\n아세트아미노펜(타이레놀)이나 이부프로펜(애드빌, 모트린)을 복용하실 수 있습니다. 복용 시 라벨의 지시사항을 따르시고, 다른 질환으로 약을 복용 중이시라면 의사와 상담 후 사용하세요."
+    }
+  ]
+}

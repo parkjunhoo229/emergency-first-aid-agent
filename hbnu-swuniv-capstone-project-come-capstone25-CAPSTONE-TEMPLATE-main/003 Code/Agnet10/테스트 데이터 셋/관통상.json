@@ -1,0 +1,84 @@
+{
+  "id": "testcase_관통상_07",
+  "disease": "관통상",
+  "emergency_level": "응급",
+  "final_emergency_level": "긴급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "쇠막대기에 찔렸는데 피가 많이 나고 통증이 심해요."
+    },
+    {
+      "role": "assistant",
+      "content": "과다출혈 증상이 있나요? 피가 멈추지 않거나 계속 흐르나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 계속 피가 나요. 멈추질 않아요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 관통상이고 긴급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "현재 긴급 상황으로 의료진의 도움이 필요합니다. 119에 도움을 요청했습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "정확한 위치를 전달하기 위해 현재 계신 장소를 말씀해주시겠어요?"
+    },
+    {
+      "role": "user",
+      "content": "○○마트 주차장이에요."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 손을 씻을 수 있는 환경인가요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 근처에 물티슈가 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "깨끗한 천이나 붕대로 상처를 누를 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 티셔츠로 누르고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "상처를 흐르는 물로 씻을 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 생수병 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "상처에 바를 연고가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "붕대나 천으로 상처를 덮을 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n손을 깨끗이 닦은 후, 출혈을 멈추기 위해 티셔츠로 강하게 눌러주세요.\n생수로 상처 부위를 5~10분 동안 충분히 헹구고, 먼지가 있다면 깨끗한 천으로 조심스럽게 닦아주세요.\n가능하다면 항생제 연고를 바르되, 없으면 생략해도 됩니다.\n상처는 깨끗한 붕대나 천으로 덮어 감염을 방지해주세요.\n붕대는 젖거나 더러워질 경우 새것으로 교체해 주세요.\n감염 징후(통증, 고름, 발열 등)가 있다면 의료진의 진료를 꼭 받으세요."
+    }
+  ]
+}

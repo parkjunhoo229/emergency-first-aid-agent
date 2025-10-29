@@ -1,0 +1,116 @@
+{
+  "id": "testcase_성인 두부 외상_20",
+  "disease": "성인 두부 외상",
+  "emergency_level": "응급",
+  "final_emergency_level": "긴급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "자전거를 타다 넘어졌는데 헬멧을 쓰고 있었고, 머리를 세게 부딪쳤어요."
+    },
+    {
+      "role": "assistant",
+      "content": "코나 귀에서 출혈 또는 액체가 새어나오나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 코에서 맑은 액체가 나와요."
+    },
+    {
+      "role": "assistant",
+      "content": "의식이 혼미하거나 수 초 이상 깨어나지 않는 상태가 있었나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 잠깐 정신을 잃었었어요."
+    },
+    {
+      "role": "assistant",
+      "content": "심한 머리 출혈이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 머리카락에 약간 피만 보여요."
+    },
+    {
+      "role": "assistant",
+      "content": "호흡이 없거나 멈췄던 적이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 계속 숨 쉬고 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "현재 혼란스럽거나 불안정한 상태가 점점 심해지고 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "그 정도는 아닌 것 같아요."
+    },
+    {
+      "role": "assistant",
+      "content": "균형을 잡기 어렵거나 걷기 힘든가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 천천히 움직일 수는 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "팔이나 다리를 제대로 움직일 수 없나요?"
+    },
+    {
+      "role": "user",
+      "content": "움직이는 데 문제는 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "양쪽 눈의 동공 크기가 다르거나 비정상적인가요?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 눈은 괜찮아요."
+    },
+    {
+      "role": "assistant",
+      "content": "발음이 어눌해지는 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "그건 아닌 것 같아요."
+    },
+    {
+      "role": "assistant",
+      "content": "경련이나 발작 증상이 있었나요?"
+    },
+    {
+      "role": "user",
+      "content": "없었어요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 성인 두부 외상이고 긴급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "현재 긴급 상황으로 의료진의 도움이 필요합니다. 119에 도움을 요청했습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "정확한 위치를 전달하기 위해 현재 계신 장소를 말씀해주시겠어요?"
+    },
+    {
+      "role": "user",
+      "content": "○○공원 자전거 도로 근처입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n부상자는 머리와 어깨를 약간 들어 올린 상태로 눕히고, 필요하지 않다면 절대 움직이지 마세요. 목을 움직이지 않도록 조심하세요. 헬멧을 쓰고 있다면 벗기지 마세요.\n출혈이 있는 경우 멸균 거즈나 깨끗한 천으로 상처 부위를 부드럽게 눌러주세요. 하지만 두개골 골절이 의심된다면 압력을 가하지 마세요.\n호흡이나 의식 상태를 주의 깊게 관찰하고, 호흡, 기침, 움직임이 없으면 즉시 심폐소생술을 시행하세요. 구급차가 도착할 때까지 환자의 상태를 지켜봐 주세요."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "testcase_뇌졸중_08",
+  "disease": "뇌졸중",
+  "emergency_level": "긴급",
+  "final_emergency_level": "긴급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "갑자기 말을 잘 못 하고, 한쪽 팔과 다리에 힘이 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 뇌졸중이고 긴급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "현재 긴급 상황으로 의료진의 도움이 필요합니다. 119에 도움을 요청했습니다."
+    },
+    {
+      "role": "assistant",
+      "content": "정확한 위치를 전달하기 위해 현재 계신 장소를 말씀해주시겠어요?"
+    },
+    {
+      "role": "user",
+      "content": "○○ 아파트 101동 앞입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 환자는 의식이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 의식은 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "구토를 하거나 숨 쉬는 데 문제가 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "숨은 쉬지만 조금 힘들어해요."
+    },
+    {
+      "role": "assistant",
+      "content": "환자를 편안한 자세로 눕히고, 머리는 약간 높이고 옆으로 돌려주세요.\n구토할 경우 기도가 막히지 않도록 주의하세요.\n의식이 있다면 말을 걸어 안심시키고 움직이지 않도록 하세요.\n절대 음식을 먹이거나 약을 먹이지 마세요.\n증상이 나타난 시간을 기록해 두시고, 119 구조대원이 도착하면 전달해주세요."
+    }
+  ]
+}

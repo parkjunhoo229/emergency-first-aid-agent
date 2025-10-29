@@ -1,0 +1,76 @@
+{
+  "id": "testcase_염좌_35",
+  "disease": "염좌",
+  "emergency_level": "비응급",
+  "final_emergency_level": "응급",
+  "conversation": [
+    {
+      "role": "assistant",
+      "content": "환자의 상태를 말씀해주세요. 어떤 증상이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "계단에서 발을 헛디뎌 발목을 접질렀어요. 많이 아프고 움직이기 힘들어요."
+    },
+    {
+      "role": "assistant",
+      "content": "다친 부위에 체중을 실을 수 없나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 체중을 실 수 없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "관절이 불안정하거나 감각이 없나요?"
+    },
+    {
+      "role": "user",
+      "content": "약간 불안정한 느낌이 들어요."
+    },
+    {
+      "role": "assistant",
+      "content": "진단 결과, 질병명은 염좌이고 응급 상황입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "119에 도움을 요청하시겠습니까?"
+    },
+    {
+      "role": "user",
+      "content": "아니요, 병원은 제가 직접 갈 수 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "알겠습니다. 증상이 악화되면 즉시 병원을 방문하시고, 필요시 119에 연락하시기 바랍니다."
+    },
+    {
+      "role": "assistant",
+      "content": "응급처치를 안내하기 위해 몇 가지 질문을 드릴게요. 얼음찜질을 할 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 얼음은 있어요."
+    },
+    {
+      "role": "assistant",
+      "content": "압박할 수 있는 탄력 붕대나 랩이 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "없어요."
+    },
+    {
+      "role": "assistant",
+      "content": "부상 부위를 심장보다 높게 올릴 수 있나요?"
+    },
+    {
+      "role": "user",
+      "content": "네, 베개에 올려놨어요."
+    },
+    {
+      "role": "assistant",
+      "content": "상황에 맞는 응급처치를 안내하겠습니다.\n우선 다친 발목은 절대 무리하게 사용하지 말고 안정적인 자세로 쉬게 해주세요.\n얼음찜질은 가능한 빨리 시작하고, 한 번에 15~20분씩 하루 4~8회 정도 반복해주세요. 얼음은 수건에 싸서 피부에 직접 닿지 않도록 하세요.\n압박할 수단이 없더라도 가능한 높게 유지하여 부기를 줄이세요.\n통증이 지속된다면 진통제를 복용하거나 가까운 병원에서 진료를 받으세요."
+    }
+  ]
+}
