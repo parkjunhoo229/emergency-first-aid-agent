@@ -21,9 +21,7 @@
     - **소프트웨어 요구사항**
       - Python 3.11 이상 환경  
       - FastAPI 웹 프레임워크  
-      - OpenAI GPT API (병명 추론 및 응급처치 안내용)  
-      - Redis (세션 상태 관리용)  
-      - MySQL (대화 로그 저장용)  
+      - OpenAI GPT API (병명 추론 및 응급처치 안내용)
       - Requests, dotenv, Pydantic 등 필수 라이브러리  
 
     - **네트워크 요구사항**
