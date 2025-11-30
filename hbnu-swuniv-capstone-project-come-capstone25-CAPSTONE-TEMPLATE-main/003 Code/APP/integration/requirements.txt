@@ -1,0 +1,24 @@
+# FastAPI 및 웹 서버
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-dotenv>=1.0.0
+
+# 데이터베이스
+sqlalchemy>=2.0.0
+aiomysql>=0.2.0
+passlib>=1.7.4
+bcrypt>=4.1.0
+
+# AI 및 OpenAI
+openai>=1.0.0
+
+# HTTP 클라이언트
+requests>=2.31.0
+
+# 데이터 검증
+pydantic>=2.7.0
+email-validator>=2.1.0
+
+# CORS
+python-multipart>=0.0.9
+
