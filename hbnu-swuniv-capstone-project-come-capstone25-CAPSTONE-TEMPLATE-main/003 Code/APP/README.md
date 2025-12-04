@@ -34,45 +34,44 @@ https://blog.naver.com/querydb/223925747860
 ==설치 후==
 Android Studio 열어서 AVD 만들기
 
-###7. 프로젝트 실행
-
-0.
+7. 프로젝트 실행
+1)
 노트북 Lan선 연결
 노트북 핫스팟열기
 핸드폰을 핫스팟 wifi 연결
 
-1.
+2)
 cmd에서 ipconfig로 노트북 lan주소 알아내서
 medical > lib> services 의 파일 내부에서 geolocator제외하고 다 수정
 'http://      :5000/api'<< 여기에 :5000전에 붙여넣기 
 
-2.(창 2개 띄워야함)
+3)(창 2개 띄워야함)
 cmd에 cd C:\capston3\integration
 
-3.(창 2개 띄워야함)
+4)(창 2개 띄워야함)
 가상환경 활성화
 .\venv\Scripts\activate 이거 입력하면
 (venv) C:\capston3\integration> 이렇게 뜰거임
 
-4. 1(창 1)
+5)(창 1)
 서버실행(창 절대 닫으면 안됨)
 python main.py
 성공시 INFO:     Application startup complete.<< 메세지뜸
 핸드폰으로 아래 주소 접속해서 잘 열렸는지 테스트 가능
 http://192.168.137.1:5000/docs
 
-4. 2(창 2)
+6)(창 2)
 서버실행(창 절대 닫으면 안됨)
 uvicorn fake_119_server:app --host 0.0.0.0 --port 6000 --reload
 신고 오면 여기 콘솔에 payload가 찍힘
 
-5.
+7)
 비쥬얼 코드에서
 cd medicall
 
-6. 
+8) 
 flutter devices 입력 → ex) SM_xxxx 뜨면 핸드폰 연결된거임
 
-7.
+9)
 flutter run으로 핸드폰에서 실행
 
