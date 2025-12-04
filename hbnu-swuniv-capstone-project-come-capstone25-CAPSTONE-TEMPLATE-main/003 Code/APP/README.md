@@ -17,7 +17,7 @@ create database medical;
 
 3. 파이썬 라이브러리 설치
 cmd창 열고 Integration 폴더로 이동(cd 명령어 이용)
-pip install -r requirements.txt
+pip install -r requirements_win.txt
 이후 pip install pandas pymysql glob requests
 
 4. 지도 데이터 설정
